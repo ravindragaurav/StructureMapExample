@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using StructureMapExample.Classes;
+using System;
 
 namespace StructureMapExample
 {
@@ -10,6 +7,11 @@ namespace StructureMapExample
     {
         static void Main(string[] args)
         {
+            ITasks tasks = new Tasks();
+            Employee e = new Employee(tasks);
+            e.PerformTask("Coding");
+            Console.ReadLine();
+
         }
     }
 }
