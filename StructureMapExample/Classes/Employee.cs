@@ -1,13 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace StructureMapExample.Classes
+﻿namespace StructureMapExample.Classes
 {
     public class Employee
     {
+        private ITasks _tasks;
+        public Employee(ITasks tasks)
+        {
+            _tasks = tasks;
+        }
 
+        public void PerformTask(string taskName)
+        {
+            _tasks.PerformTask(taskName);
+        }
     }
 }
