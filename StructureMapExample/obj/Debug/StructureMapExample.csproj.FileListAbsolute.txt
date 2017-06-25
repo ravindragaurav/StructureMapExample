@@ -1,0 +1,8 @@
+C:\Code\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.csprojResolveAssemblyReference.cache
+C:\Code\StructureMapExample\StructureMapExample\bin\Debug\StructureMapExample.exe.config
+C:\Code\StructureMapExample\StructureMapExample\bin\Debug\StructureMapExample.exe
+C:\Code\StructureMapExample\StructureMapExample\bin\Debug\StructureMapExample.pdb
+C:\Code\StructureMapExample\StructureMapExample\bin\Debug\StructureMap.dll
+C:\Code\StructureMapExample\StructureMapExample\bin\Debug\StructureMap.xml
+C:\Code\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.exe
+C:\Code\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.pdb
