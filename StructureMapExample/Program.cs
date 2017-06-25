@@ -11,7 +11,6 @@ namespace StructureMapExample
             Employee e = new Employee(tasks);
             e.PerformTask("Coding");
             Console.ReadLine();
-
         }
     }
 }

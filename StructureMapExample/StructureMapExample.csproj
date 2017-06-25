@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Duties.cs" />
     <Compile Include="Classes\Employee.cs" />
     <Compile Include="Classes\ITasks.cs" />
     <Compile Include="Classes\Tasks.cs" />
